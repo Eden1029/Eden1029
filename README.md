@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to Eden's GitHub Profile!
 
-<!--
-**Eden1029/Eden1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! My name is Eden, and I'm passionate about Data Analytics. I love working on Data Inaights and exploring new ways to solve problems.
 
-Here are some ideas to get you started:
+## Skills
+- Microsoft Power BI
+- SQL
+- Python
+- Tableau
+- R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- www.linkedin.com/in/eden-nguyen
+- eden.vietnguyen@gmail.com
+- https://eden-nguyen.vercel.app/
+
+
+Feel free to explore my repositories and connect with me!
