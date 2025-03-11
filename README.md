@@ -10,7 +10,7 @@ I love working with **Power BI, SQL, Python, Tableau, and R** to transform raw d
 ## 🛠️ Skills & Tools  
 🔹 **Microsoft Power BI** – Data Visualization & Dashboarding  
 🔹 **SQL** – Database Queries & Data Management  
-🔹 **Python** – Data Analysis 
+🔹 **Python** – Data Analysis                  
 🔹 **Tableau** – Interactive Reports & Dashboards  
 🔹 **R** – Statistical Analysis   
 
