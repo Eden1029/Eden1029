@@ -20,7 +20,7 @@ I love working with **Power BI, SQL, Python, Tableau, and R** to transform raw d
 I have successfully completed multiple certifications to enhance my expertise in **Data Analytics, Machine Learning, and Business Intelligence**:  
 
 ### 🏆 **Technical & Data Analytics Certifications**
-✔ **[Microsoft AI Skills with Copilot Studio](#)** – *Microsoft Copilot Studios* (🗓 **Apr 28, 2025**) 📜 [View Certificate](https://github.com/Eden1029/Eden1029/blob/main/Thi%20Minh%20Viet%20(Eden)%20Nguyen%20Certificate_433.pdf)
+✔ **[Microsoft AI Skills with Copilot Studio](#)** – *Akkodis Academy* (🗓 **Apr 28, 2025**) 📜 [View Certificate](https://github.com/Eden1029/Eden1029/blob/main/Thi%20Minh%20Viet%20(Eden)%20Nguyen%20Certificate_433.pdf)
 
 ✔ **[Databricks Fundamentals Accreditation](#)** – *Databricks* (🗓 **Jan 6, 2025**) 📜 [View Certificate](https://github.com/Eden1029/Eden1029/blob/main/Databricks%20-%20Generic.pdf)
 
