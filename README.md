@@ -2,7 +2,7 @@
 
 ## 👋 About Me  
 Hello! My name is **Eden Nguyen**, and I'm passionate about **Data Analytics**.  
-I specialize in **data visualization, insights generation, and analytical problem-solving**.  
+I specialize in **data visualisation, insights generation, and analytical problem-solving**.  
 I love working with **Power BI, SQL, Python, Tableau, and R** to transform raw data into actionable insights.  
 
 ---
