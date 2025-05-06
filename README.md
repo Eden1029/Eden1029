@@ -45,7 +45,7 @@ I have successfully completed multiple certifications to enhance my expertise in
 Explore my **best data analytics projects**:  
 📊 **[Project 1: Power BI Dashboard]** – [GitHub Repo](https://github.com/Eden1029/PowerBI_LogisticsProject)  
 📈 **[Project 2: SQL Data Analysis]** – [GitHub Repo](https://github.com/Eden1029/SQL_GlobalForestCoverage)  
-🔍 **[Project 3: R Data ANalysis]** – [GitHub Repo](https://github.com/Eden1029/R_USMigrationFlows)  
+🔍 **[Project 3: R Data Analysis]** – [GitHub Repo](https://github.com/Eden1029/R_USMigrationFlows)  
 
 ---
 
