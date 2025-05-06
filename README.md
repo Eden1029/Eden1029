@@ -30,10 +30,13 @@ I have successfully completed multiple certifications to enhance my expertise in
 
 ✔ **[Artificial Intelligence Foundations: Machine Learning](#)** – *LinkedIn Learning* (🗓 **Apr 13, 2024**) 📜 [View Certificate](https://github.com/Eden1029/Eden1029/blob/main/Machine%20Learning%20-%20LinkedIn.jpeg)
 
-✔ **[Get Started with Python](https://coursera.org/verify/J4GWV59LCUN9)** – *Google via Coursera* (🗓 **Nov 10, 2023**) 📜 [View Certificate](https://github.com/Eden1029/Eden1029/blob/main/Get%20Started%20with%20Python%20Coursera.pdf)
+✔ **[Get Started with Python](#)** – *Google via Coursera* (🗓 **Nov 10, 2023**) 📜 [View Certificate](https://github.com/Eden1029/Eden1029/blob/main/Get%20Started%20with%20Python%20Coursera.pdf)
 
+---
 
-### 🎓 **Academic Qualifications**  
+### 🎓 **Academic Qualifications**
+🎓 **Master of Information Technology** – *Kaplan Business School* (🗓 **April 04, 2025**) 📜 [View Certificate](https://github.com/Eden1029/Eden1029/blob/main/Kaplan_Testamur.pdf)
+
 🎓 **Master of Business (Supply Chain Management)** – *Griffith University* (🗓 **Dec 12, 2022**) 📜 [View Certificate](https://github.com/Eden1029/Eden1029/blob/main/Griffith%20Testamur.pdf)
 
 ---
